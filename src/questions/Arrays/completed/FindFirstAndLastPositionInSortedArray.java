@@ -1,4 +1,4 @@
-package questions.Arrays.inProgress;
+package questions.Arrays.completed;
 
 import java.util.Arrays;
 import java.util.Scanner;
